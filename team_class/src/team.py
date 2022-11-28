@@ -15,7 +15,7 @@ class Team:
                 return True
         return False 
 
-    def points()
+
     
 
 
